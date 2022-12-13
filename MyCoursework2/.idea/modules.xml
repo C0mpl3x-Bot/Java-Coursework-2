@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AirlineBooking template intelliJ/AirlineBooking template intelliJ.iml" filepath="$PROJECT_DIR$/AirlineBooking template intelliJ/AirlineBooking template intelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/Sudoku/Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myCoursework2 oguve001.iml" filepath="$PROJECT_DIR$/.idea/myCoursework2 oguve001.iml" />
+    </modules>
+  </component>
+</project>
